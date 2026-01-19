@@ -1,0 +1,15 @@
+/Users/matthewgibson/Projects/CsharpProjects/JSON-NOM-NOM/JSON-NOM-NOM/bin/Debug/net9.0/JSON-NOM-NOM
+/Users/matthewgibson/Projects/CsharpProjects/JSON-NOM-NOM/JSON-NOM-NOM/bin/Debug/net9.0/JSON-NOM-NOM.deps.json
+/Users/matthewgibson/Projects/CsharpProjects/JSON-NOM-NOM/JSON-NOM-NOM/bin/Debug/net9.0/JSON-NOM-NOM.runtimeconfig.json
+/Users/matthewgibson/Projects/CsharpProjects/JSON-NOM-NOM/JSON-NOM-NOM/bin/Debug/net9.0/JSON-NOM-NOM.dll
+/Users/matthewgibson/Projects/CsharpProjects/JSON-NOM-NOM/JSON-NOM-NOM/bin/Debug/net9.0/JSON-NOM-NOM.pdb
+/Users/matthewgibson/Projects/CsharpProjects/JSON-NOM-NOM/JSON-NOM-NOM/obj/Debug/net9.0/JSON-NOM-NOM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matthewgibson/Projects/CsharpProjects/JSON-NOM-NOM/JSON-NOM-NOM/obj/Debug/net9.0/JSON-NOM-NOM.AssemblyInfoInputs.cache
+/Users/matthewgibson/Projects/CsharpProjects/JSON-NOM-NOM/JSON-NOM-NOM/obj/Debug/net9.0/JSON-NOM-NOM.AssemblyInfo.cs
+/Users/matthewgibson/Projects/CsharpProjects/JSON-NOM-NOM/JSON-NOM-NOM/obj/Debug/net9.0/JSON-NOM-NOM.csproj.CoreCompileInputs.cache
+/Users/matthewgibson/Projects/CsharpProjects/JSON-NOM-NOM/JSON-NOM-NOM/obj/Debug/net9.0/JSON-NOM-NOM.sourcelink.json
+/Users/matthewgibson/Projects/CsharpProjects/JSON-NOM-NOM/JSON-NOM-NOM/obj/Debug/net9.0/JSON-NOM-NOM.dll
+/Users/matthewgibson/Projects/CsharpProjects/JSON-NOM-NOM/JSON-NOM-NOM/obj/Debug/net9.0/refint/JSON-NOM-NOM.dll
+/Users/matthewgibson/Projects/CsharpProjects/JSON-NOM-NOM/JSON-NOM-NOM/obj/Debug/net9.0/JSON-NOM-NOM.pdb
+/Users/matthewgibson/Projects/CsharpProjects/JSON-NOM-NOM/JSON-NOM-NOM/obj/Debug/net9.0/JSON-NOM-NOM.genruntimeconfig.cache
+/Users/matthewgibson/Projects/CsharpProjects/JSON-NOM-NOM/JSON-NOM-NOM/obj/Debug/net9.0/ref/JSON-NOM-NOM.dll
