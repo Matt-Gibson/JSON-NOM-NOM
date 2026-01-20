@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Aaron",
+    "Type": "Feral",
+    "Weakness": "AI"
+  },
+  {
+    "Name": "Dan",
+    "Type": "StudaTeachaManagement",
+    "Weakness": "Temptation to Mentor"
+  },
+  {
+    "Name": "Other Matt",
+    "Type": "Imposter",
+    "Weakness": "My Birth Records"
+  }
+]

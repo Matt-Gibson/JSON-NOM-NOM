@@ -13,3 +13,4 @@
 /Users/matthewgibson/Projects/CsharpProjects/JSON-NOM-NOM/JSON-NOM-NOM/obj/Debug/net9.0/JSON-NOM-NOM.pdb
 /Users/matthewgibson/Projects/CsharpProjects/JSON-NOM-NOM/JSON-NOM-NOM/obj/Debug/net9.0/JSON-NOM-NOM.genruntimeconfig.cache
 /Users/matthewgibson/Projects/CsharpProjects/JSON-NOM-NOM/JSON-NOM-NOM/obj/Debug/net9.0/ref/JSON-NOM-NOM.dll
+/Users/matthewgibson/Projects/CsharpProjects/JSON-NOM-NOM/JSON-NOM-NOM/bin/Debug/net9.0/Data/data.JSON

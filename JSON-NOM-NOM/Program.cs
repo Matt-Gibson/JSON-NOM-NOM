@@ -15,7 +15,8 @@ Console.WriteLine("Enough of a vent... and a long story short, sticking strictly
 
 
 // Hard coding json file path.... yeah no fancy configuration going on just yet
-string jsonpath = "../../../data.JSON";
+//string jsonpath = "../../../data.JSON";
+string jsonpath = Path.Combine(Directory.GetCurrentDirectory(),"Data", "data.JSON");
 
 // Open File
 using (StreamReader sr = new StreamReader(jsonpath))
